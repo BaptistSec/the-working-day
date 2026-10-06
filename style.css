@@ -7,3 +7,4 @@
 .followups{background:#f4f7f6;border:1px solid #cbd5d2;border-radius:10px;padding:20px 24px;margin:0 0 28px}.followups details{padding:7px 0;border:none}.followups summary{min-height:34px}.followups p{margin:10px 0 0;font-size:15px}
 
 main:focus{outline:none}.decision:focus{outline:3px solid #935b00;outline-offset:5px}
+.course-progress{margin:22px 0;padding:18px 20px;border:1px solid var(--rule);border-radius:9px;background:#fafcfb}.course-progress .hint{margin:12px 0 0}.progress-stages{display:flex;flex-wrap:wrap;gap:6px 20px;margin-top:12px;font-size:14px}.intake{padding-left:28px}.intake li{padding:10px 0 18px}.intake h2{font-size:24px;margin-bottom:12px}.legal-detail section{margin:22px 0}.manager-start{background:#f8faf9;border-radius:10px;padding:26px;margin-top:25px}.term-note{font-size:14px;line-height:1.5;background:#f4f7f6;padding:13px 17px;border-radius:6px;margin:15px 0}

@@ -6,6 +6,7 @@ START
 1. Extract the ZIP into a folder. Keep all files together.
 2. Open index.html in a current web browser.
 3. Start the working day, then review the learning modules and complete their checks.
+   Press Finish module and continue after the two correct checks in each module.
 4. Take the final assessment. The local completion standard is 13 out of 16.
 5. If you meet the standard, optionally enter a name and print/save the learning record.
 
@@ -13,7 +14,7 @@ No account, payment or internet connection is needed for the downloaded course.
 Official source links need internet access. Source sites have their own privacy policies.
 
 FOR MANAGERS
-Read Facilitator-Guide.pdf before rollout. Use Facilitator-Guide.docx to adapt the
+Read the five-page Facilitator-Guide.pdf before rollout. Use Facilitator-Guide.docx to adapt the
 local-policy briefing for your organisation. Brief staff on real reporting contacts,
 urgent/out-of-hours routes, approved tools, sharing rules and payment verification.
 The game does not know your local policies. Use Learning-Transcript.html for a
@@ -55,3 +56,13 @@ Browser logic, keyboard paths, responsive layouts and automated accessibility
 checks were reviewed before release. This does not establish native device/browser
 coverage, formal screen-reader/WCAG conformance, demonstrated workplace competence,
 training retention or a validated duration.
+
+VERSION NOTE
+Version 1.0.2 uses a new progress key. Earlier 1.0.1 progress is not migrated or
+represented as completion of this version. Keep your earlier printed learning record
+if you need it. Reset all progress also removes the previous course-version keys.
+
+MANAGER INTAKE
+The live course includes an incident-intake card under the manager setup section.
+It supports report receipt, ownership and escalation under your existing response
+plan; it is not a complete response plan or a place to enter live incident details.
