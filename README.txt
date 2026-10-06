@@ -60,7 +60,7 @@ coverage, formal screen-reader/WCAG conformance, demonstrated workplace competen
 training retention or a validated duration.
 
 VERSION NOTE
-Version 1.0.4 adds a workspace preparation check, quieter modules and
+Version 1.0.5 adds a workspace preparation check, quieter modules and
 one-card optional practice. It resumes the next unfinished task or module.
 The assessment shows one question at a time. Previous valid 1.0.2/1.0.3 saved progress
 is retained in the same browser. Earlier 1.0.1 progress is not migrated.

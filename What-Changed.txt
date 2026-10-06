@@ -1,26 +1,28 @@
-WHAT CHANGED IN 1.0.4
+WHAT CHANGED IN 1.0.5
 
-- Continue now takes you to the next unfinished task or module. When finished,
-  it takes you to your learning record.
-- Saving options tell you whether saving is on or unavailable. Inspected
-  request details survive a refresh when saving is enabled.
-- The first task includes a workspace setup check: device, connection,
-  surroundings and a known support route.
-- Modules show a short habit summary, with examples available on demand.
-- Optional practice shows one inbox card at a time, with previous/next.
-  Its report exercise and discussion prompts open only when wanted.
+- Missed assessment answers are now shown one at a time, with the chosen
+  answer, best answer, explanation and relevant learning module. Previous
+  and Next keep review manageable. The full 16-answer review remains.
+- Keyboard assessment navigation focuses the current question. Missing
+  answers have an associated error; choosing an answer removes stale errors.
+- Module feedback announcements include the actual explanation, not only
+  a generic correct/try-again message.
+- If browser saving fails when enabled, the options immediately show that
+  saving is unavailable instead of claiming it is on. In-memory work remains.
+- Valid saved 1.0.2/1.0.3/1.0.4 progress is retained under the existing key.
 
-The next review used fresh model personas: a returning learner, an employee
-with storage disabled, a first-day worker on a phone, a methodical reader,
-a keyboard-only revisiting learner and a manager preparing a rollout.
-These were scripted/model walkthroughs, not human feedback. The fixes address
-specific confusion and duplicate content found during those checks.
+This round used labelled scripted/model personas: a novice with four misses,
+an expert with no misses, a confident learner with one miss, a keyboard-only
+learner, a mobile reader, a returning v1.0.4 learner and a learner whose
+browser storage becomes full. These are not observed human testers.
 
-Previous valid 1.0.2/1.0.3 saved progress is retained in the same browser.
-Saving is optional, no data is sent, and the print-only name is not saved.
-The guide remains five pages, with its local-saving description aligned.
+All 108 branch edges, 80 reachable nodes, existing practice, pass/retake,
+printing and corruption checks pass locally. Automated accessibility checks
+found no violations on tested screens; this is not a conformance claim.
+No real screen-reader/native-device trial, measured duration, retention,
+workplace competence or perfection claim is made.
 
-All 108 branch edges and 80 reachable nodes remain. Automatic accessibility,
-logic, storage and responsive checks pass locally. This is not proof of
-perfect usability, real screen-reader support, validated duration or
-workplace competence. No new legal or accreditation claims were added.
+Research informed clearer corrective feedback, error recovery and supportive
+reporting. Learning research does not establish that immediate feedback is
+always best or validate this course. No legal or accreditation claim changed.
+The facilitator guide is unchanged and remains five pages.
