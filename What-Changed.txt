@@ -1,28 +1,28 @@
-WHAT CHANGED IN 1.0.5
+WHAT CHANGED IN 1.0.6
 
-- Missed assessment answers are now shown one at a time, with the chosen
-  answer, best answer, explanation and relevant learning module. Previous
-  and Next keep review manageable. The full 16-answer review remains.
-- Keyboard assessment navigation focuses the current question. Missing
-  answers have an associated error; choosing an answer removes stale errors.
-- Module feedback announcements include the actual explanation, not only
-  a generic correct/try-again message.
-- If browser saving fails when enabled, the options immediately show that
-  saving is unavailable instead of claiming it is on. In-memory work remains.
-- Valid saved 1.0.2/1.0.3/1.0.4 progress is retained under the existing key.
+- Four optional contrast cases show a first request, then changed facts.
+  Reconsider the route when an approved update becomes an unfamiliar profile,
+  a bank change becomes a payment, a link becomes credential/MFA exposure,
+  or a routine summary gains a new AI destination. Unscored and optional.
+- The reading transcript includes the same cases for assisted discussion.
+- Inspection controls distinguish previously inspected from currently shown.
+  Only the visible detail is expanded; each control identifies its panel.
+- First-report errors distinguish facts from destination, link the error to
+  affected fields and put keyboard focus where correction starts. Optional
+  report feedback clears when choices change, so old reports do not linger.
+- Previous/Next optional inbox cards focus the current card heading.
+- Valid saved 1.0.2/1.0.3/1.0.4/1.0.5 progress is retained.
 
-This round used labelled scripted/model personas: a novice with four misses,
-an expert with no misses, a confident learner with one miss, a keyboard-only
-learner, a mobile reader, a returning v1.0.4 learner and a learner whose
-browser storage becomes full. These are not observed human testers.
+Checks cover every first/changed wrong/correct route, replay, interruption,
+reset, keyboard focus, unchanged course completion, reporting errors,
+inspection reload, assessment pass/fail, printing and 108 edges/80 nodes.
+Layout checked at 320/390/640/844/1280 CSS pixels, including landscape and
+text-spacing overrides. Automated axe found no violations on tested screens.
+Actual changed-facts, text-spacing, report, forced-colors and printed-record
+images were inspected. The guide is unchanged and remains five pages.
 
-All 108 branch edges, 80 reachable nodes, existing practice, pass/retake,
-printing and corruption checks pass locally. Automated accessibility checks
-found no violations on tested screens; this is not a conformance claim.
-No real screen-reader/native-device trial, measured duration, retention,
-workplace competence or perfection claim is made.
-
-Research informed clearer corrective feedback, error recovery and supportive
-reporting. Learning research does not establish that immediate feedback is
-always best or validate this course. No legal or accreditation claim changed.
-The facilitator guide is unchanged and remains five pages.
+These are labelled scripted/model walkthroughs, not human observations.
+320 CSS-pixel reflow is not a full real 400% zoom test. Forced-colors emulation
+is not a native operating-system/screen-reader trial. No measured learning,
+transfer, duration, competence, conformance or perfection claim is made.
+No legal content or accreditation claim changed.

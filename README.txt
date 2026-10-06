@@ -60,9 +60,10 @@ coverage, formal screen-reader/WCAG conformance, demonstrated workplace competen
 training retention or a validated duration.
 
 VERSION NOTE
-Version 1.0.5 adds a workspace preparation check, quieter modules and
-one-card optional practice. It resumes the next unfinished task or module.
-The assessment shows one question at a time. Previous valid 1.0.2/1.0.3 saved progress
+Version 1.0.6 adds four optional changed-facts contrast cases, clearer
+report error recovery and inspection/practice keyboard feedback. It retains
+workspace preparation, next-unfinished-step resume, quieter modules, one-card
+practice and missed-answer review. Previous valid 1.0.2/1.0.3/1.0.4/1.0.5 saved progress
 is retained in the same browser. Earlier 1.0.1 progress is not migrated.
 Reset all progress also removes the previous course-version keys.
 
