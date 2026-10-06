@@ -1,0 +1,101 @@
+THE WORKING DAY: SOURCE NOTES
+Law and guidance checked 6 October 2026.
+
+The course uses official guidance as a basis for original teaching examples.
+No official source endorses this course. Practical workflow choices are policy-led
+recommendations, not quoted legal duties.
+
+S1: NCSC: Top Tips for Staff
+https://www.ncsc.gov.uk/information/top-tips-for-staff
+Supports: Staff training scope; training complements technical protection.
+Used in modules: phishing, devices
+
+S2: NCSC: Phishing attacks
+https://www.ncsc.gov.uk/guidance/phishing
+Supports: Independent verification, layered defences and supportive reporting.
+Used in modules: remote, phishing, social, incidents
+
+S3: NCSC: Secure your important online accounts
+https://www.ncsc.gov.uk/collection/small-organisations-guide-to-cyber-security/secure-your-important-online-accounts
+Supports: Unique passwords, password managers, MFA and passkeys.
+Used in modules: accounts
+
+S4: NCSC: Why MFA matters
+https://www.ncsc.gov.uk/collection/mfa-for-your-corporate-online-services/why-mfa-matters
+Supports: Benefits and limits of MFA.
+Used in modules: accounts
+
+S5: NCSC: Advice for End Users
+https://www.ncsc.gov.uk/guidance/end-user-devices-advice-end-users
+Supports: Managed devices, travel, physical security and loss reporting.
+Used in modules: remote, accounts, social, data, devices, incidents
+
+S6: NCSC: Response and recovery
+https://www.ncsc.gov.uk/collection/small-business-guidance--response-and-recovery
+Supports: Preparing for and responding to incidents.
+Used in modules: incidents
+
+S7: ICO: Personal data breaches
+https://ico.org.uk/for-organisations/report-a-breach/personal-data-breach/personal-data-breaches-a-guide/
+Supports: Breach definition, risk thresholds, recording and notification.
+Used in modules: data, incidents, law
+
+S8: ICO: The first 72 hours
+https://ico.org.uk/for-organisations/advice-for-small-organisations/personal-data-breaches/72-hours-how-to-respond-to-a-personal-data-breach/
+Supports: Containment, investigation and risk assessment.
+Used in modules: data, incidents, law
+
+S9: NCSC: Cyber Essentials
+https://www.ncsc.gov.uk/cyberessentials/overview
+Supports: Certification context; staff training is not certification.
+Used in modules: devices, law
+
+S10: ICO: Data (Use and Access) Act 2025
+https://ico.org.uk/about-the-ico/what-we-do/legislation-we-cover/data-use-and-access-act-2025/
+Supports: Current data protection reform context.
+Used in modules: law
+
+S12: NCSC: QR codes and their risks
+https://www.ncsc.gov.uk/blog-post/qr-codes-whats-real-risk
+Supports: QR phishing context and proportionate caution.
+Used in modules: phishing
+
+S13: US FTC: Public Wi-Fi safety
+https://consumer.ftc.gov/articles/are-public-wi-fi-networks-safe-what-you-need-know
+Supports: Encrypted connections do not prove a website is trustworthy.
+Used in modules: remote, phishing
+
+S15: NCSC: Virtual Private Networks
+https://www.ncsc.gov.uk/collection/device-security-guidance/infrastructure/virtual-private-networks
+Supports: Organisational VPN purpose; need depends on architecture and policy.
+Used in modules: remote
+
+S14: Swiss NCSC: Deepfake CEO fraud
+https://www.ncsc.admin.ch/ncsc/en/home/aktuell/im-fokus/2024/wochenrueckblick_14.html
+Supports: Voice/video impersonation and independent payment verification; not UK law.
+Used in modules: social
+
+S11: UK Parliament: Cyber Security and Resilience (Network and Information Systems) Bill
+https://bills.parliament.uk/bills/4035
+Supports: Bill status only; not treated as an enacted universal staff duty.
+Used in modules: law
+
+BOUNDARIES
+- UK GDPR breach notification is risk-based and is the organisation's duty.
+  Internal staff reporting should be prompt. The 72-hour notification period runs
+  from organisational awareness, not a permission for individual staff to wait.
+- PECR timescale reform concerns public electronic communications providers.
+  It is not presented as a universal duty for ordinary SME workers.
+- The Cyber Security and Resilience (Network and Information Systems) Bill is
+  treated as a Bill in the checked parliamentary record, not enacted law.
+- FTC and Swiss NCSC sources explain technical/social-engineering points, not UK law.
+- Recall/deletion promises are presented as evidence for assessment, not automatic
+  proof of containment. Local response teams should document their decisions.
+- VPN, security profile, password recovery and device-isolation examples defer
+  to the organisation's approved procedures.
+- No false claim of independent testing, accreditation, authorship or certification
+  is made. The publisher credit identifies who publishes the work.
+
+REVIEW
+Recheck official legal and guidance sources before future deployment, with a planned
+review after 26 October 2026. This document does not schedule or promise monitoring.
