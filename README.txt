@@ -24,7 +24,7 @@ printable or assisted discussion route. Allow breaks, extra time and support.
 PRIVACY
 By default, progress is held only while the page is open. Saving on this device is
 optional. It uses this browser's local storage, not a server, and includes
-in-progress assessment answers and the current question. Do not enable it on a
+in-progress assessment answers/current question and inspected request details. Do not enable it on a
 shared device. The name entered for a printed record is not saved by the course.
 The course code contains no analytics, account login or result-reporting endpoint.
 A web host may still process normal request data if you use an online version.
@@ -60,8 +60,9 @@ coverage, formal screen-reader/WCAG conformance, demonstrated workplace competen
 training retention or a validated duration.
 
 VERSION NOTE
-Version 1.0.3 adds request inspection, inbox routing and an in-task report builder.
-The assessment shows one question at a time. Previous valid 1.0.2 saved progress
+Version 1.0.4 adds a workspace preparation check, quieter modules and
+one-card optional practice. It resumes the next unfinished task or module.
+The assessment shows one question at a time. Previous valid 1.0.2/1.0.3 saved progress
 is retained in the same browser. Earlier 1.0.1 progress is not migrated.
 Reset all progress also removes the previous course-version keys.
 

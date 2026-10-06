@@ -1,36 +1,26 @@
-WHAT CHANGED
+WHAT CHANGED IN 1.0.4
 
-The course is quieter, and there is more to do before choosing an answer:
-- Inspect a sender, destination, caller or request before deciding.
-- Put a routine inbox request on the right work route.
-- Build a first incident report from facts, leaving guesses and passwords out.
-- Take the assessment one question at a time, with a previous button.
+- Continue now takes you to the next unfinished task or module. When finished,
+  it takes you to your learning record.
+- Saving options tell you whether saving is on or unavailable. Inspected
+  request details survive a refresh when saving is enabled.
+- The first task includes a workspace setup check: device, connection,
+  surroundings and a known support route.
+- Modules show a short habit summary, with examples available on demand.
+- Optional practice shows one inbox card at a time, with previous/next.
+  Its report exercise and discussion prompts open only when wanted.
 
-Navigation has three links instead of six. Home has one Start/Continue action.
-Old requests, decision trails and longer explanations open only when needed.
-Outcomes are shorter. Repeated simulation labels and duplicate next buttons are gone.
+The next review used fresh model personas: a returning learner, an employee
+with storage disabled, a first-day worker on a phone, a methodical reader,
+a keyboard-only revisiting learner and a manager preparing a rollout.
+These were scripted/model walkthroughs, not human feedback. The fixes address
+specific confusion and duplicate content found during those checks.
 
-Objective screen counts, at a fresh 390px-wide browser window:
-- Home: 546 visible words before, 95 now.
-- Payroll task entry: 220 before, 70 now.
-- First module: 372 before, 190 now.
-These counts exclude text behind closed disclosures. They are screen-density
-measurements, not human readability or learning-performance results.
+Previous valid 1.0.2/1.0.3 saved progress is retained in the same browser.
+Saving is optional, no data is sent, and the print-only name is not saved.
+The guide remains five pages, with its local-saving description aligned.
 
-Two rounds of model-persona/scripted review covered a non-technical manager,
-busy worker, less confident reader, keyboard-only user, mobile-only user,
-technical skeptic, fast clicker and slow reader. Round two separated inspection
-from deciding, removed the duplicate question after report building, and cut
-a repeated chat preview. The automated checks passed after those fixes.
-
-No human pilot, native-device test or real screen-reader test was performed.
-This does not establish perfect usability, formal accessibility conformance,
-validated duration, retention or workplace competence.
-
-Valid saved progress from 1.0.2 is retained in the same browser. Earlier 1.0.1
-progress is not migrated. Saving remains optional, and saves unfinished assessment answers and the
-current question when enabled. No answers or reports are sent.
-The printable reading version includes the new active exercises for assisted use.
-The five-page facilitator guide is retained; it is not a new response plan.
-
-Law and guidance currency remains 6 October 2026. No new legal claims are made.
+All 108 branch edges and 80 reachable nodes remain. Automatic accessibility,
+logic, storage and responsive checks pass locally. This is not proof of
+perfect usability, real screen-reader support, validated duration or
+workplace competence. No new legal or accreditation claims were added.
