@@ -1,4 +1,4 @@
-const META={version:'1.0.2',checked:'6 October 2026',publisher:'Published by William Baptist | Tidy Desk Digital'};
+const META={version:'1.0.3',checked:'6 October 2026',publisher:'Published by William Baptist | Tidy Desk Digital'};
 const SOURCES=[
 ['S1','NCSC: Top Tips for Staff','https://www.ncsc.gov.uk/information/top-tips-for-staff','Staff training scope; training complements technical protection.'],
 ['S2','NCSC: Phishing attacks','https://www.ncsc.gov.uk/guidance/phishing','Independent verification, layered defences and supportive reporting.'],

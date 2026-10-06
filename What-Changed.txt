@@ -1,0 +1,36 @@
+WHAT CHANGED
+
+The course is quieter, and there is more to do before choosing an answer:
+- Inspect a sender, destination, caller or request before deciding.
+- Put a routine inbox request on the right work route.
+- Build a first incident report from facts, leaving guesses and passwords out.
+- Take the assessment one question at a time, with a previous button.
+
+Navigation has three links instead of six. Home has one Start/Continue action.
+Old requests, decision trails and longer explanations open only when needed.
+Outcomes are shorter. Repeated simulation labels and duplicate next buttons are gone.
+
+Objective screen counts, at a fresh 390px-wide browser window:
+- Home: 546 visible words before, 95 now.
+- Payroll task entry: 220 before, 70 now.
+- First module: 372 before, 190 now.
+These counts exclude text behind closed disclosures. They are screen-density
+measurements, not human readability or learning-performance results.
+
+Two rounds of model-persona/scripted review covered a non-technical manager,
+busy worker, less confident reader, keyboard-only user, mobile-only user,
+technical skeptic, fast clicker and slow reader. Round two separated inspection
+from deciding, removed the duplicate question after report building, and cut
+a repeated chat preview. The automated checks passed after those fixes.
+
+No human pilot, native-device test or real screen-reader test was performed.
+This does not establish perfect usability, formal accessibility conformance,
+validated duration, retention or workplace competence.
+
+Valid saved progress from 1.0.2 is retained in the same browser. Earlier 1.0.1
+progress is not migrated. Saving remains optional, and saves unfinished assessment answers and the
+current question when enabled. No answers or reports are sent.
+The printable reading version includes the new active exercises for assisted use.
+The five-page facilitator guide is retained; it is not a new response plan.
+
+Law and guidance currency remains 6 October 2026. No new legal claims are made.
