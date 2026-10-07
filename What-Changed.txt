@@ -1,23 +1,17 @@
-WHAT CHANGED IN 1.0.7
+WHAT CHANGED IN 1.0.9
 
-- Trying another route repeats report-building and AI inbox routing, while
-  keeping earned completion. Replays no longer skip those hands-on actions.
-- If saving fails during gameplay, a persistent warning explains that work
-  remains on the page but recent progress may be lost on close/reload.
-- If browser data cannot be removed during opt-out/reset, the course says so
-  instead of claiming all saved data is gone. Current-page progress still
-  resets. The warning tells shared-device users to clear the site through
-  browser settings. A successful retry removes the warning.
-- Valid v1.0.6 saved progress is retained alongside earlier supported versions.
+Includes the private 1.0.8 cross-tab protection: pause saving when stored
+progress changes elsewhere, no automatic answer/result merging, reload and
+single-tab instructions, supported saved-state migration.
 
-Fresh labelled scripted/model personas cover repeat and returning learners,
-busy/mobile workers whose storage fills, and privacy-conscious shared-device
-users with blocked or silently ignored deletion. Existing and new tests
-cover 108 edges/80 nodes, reporting/replays, state migration, failures,
-assessment pass/fail, printing, contrast cases, keyboard focus and layout.
-Automated accessibility checks found no violations on tested screens.
-Save/clear failure warnings inspected on mobile and desktop.
+Independent QA found one stale UI path: compare-before-write paused saving
+but left the home checkbox/hint claiming it was on. A shared pause function
+now updates the state, warning, checkbox and hint immediately from both
+storage-event and comparison paths. Added assertions before render/reload
+and warning persistence across routes. Both paths pass current checks.
 
-No human/native-device/screen-reader, learning-retention, duration,
-competence, accessibility-conformance or perfect-usability claim.
-The guide is unchanged, five pages. No legal/accreditation claim changed.
+Existing scenario/report/assessment/state/accessibility tests pass locally.
+This remains defensive, not an atomic multi-tab transaction or browser-wide
+guarantee. Guide unchanged, five pages. No human/conformance/learning or
+legal/accreditation claims added. 1.0.8 was held for this fix, not released
+by this task. No live changes.
