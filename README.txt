@@ -60,11 +60,12 @@ coverage, formal screen-reader/WCAG conformance, demonstrated workplace competen
 training retention or a validated duration.
 
 VERSION NOTE
-Version 1.0.9 pauses saving when another tab changes saved progress, with
-instructions to reload and use one course tab. This avoids known stale
-writes, not every possible simultaneous race. Do not rely on multi-tab use.
-Valid 1.0.2 through 1.0.7 progress is retained. Earlier 1.0.1 is not migrated.
-Saving/clearing failures and repeat-practice actions remain explicit.
+Version 1.0.10 improves narrow-screen reading and transcript printing.
+With scripts on, printing includes feedback and restores screen disclosures.
+With scripts off, open required sections manually before browser printing.
+Supported public saved versions are 1.0.2-1.0.7 and 1.0.9. Version 1.0.8 was
+held, not released; its internal candidate state is accepted defensively.
+One course tab remains recommended; multi-tab protection is not atomic.
 
 MANAGER INTAKE
 The live course includes an incident-intake card under the manager setup section.
