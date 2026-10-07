@@ -60,12 +60,12 @@ coverage, formal screen-reader/WCAG conformance, demonstrated workplace competen
 training retention or a validated duration.
 
 VERSION NOTE
-Version 1.0.6 adds four optional changed-facts contrast cases, clearer
-report error recovery and inspection/practice keyboard feedback. It retains
-workspace preparation, next-unfinished-step resume, quieter modules, one-card
-practice and missed-answer review. Previous valid 1.0.2/1.0.3/1.0.4/1.0.5 saved progress
-is retained in the same browser. Earlier 1.0.1 progress is not migrated.
-Reset all progress also removes the previous course-version keys.
+Version 1.0.7 makes repeat practice repeat the active report/inbox actions
+and keeps saving or clearing failures visible. It retains the optional
+changed-facts cases, missed-answer review and next-unfinished-step resume.
+Valid 1.0.2 through 1.0.6 saved progress is retained in the same browser.
+Earlier 1.0.1 progress is not migrated. If removal fails, reset explains
+that current-page progress is cleared but saved browser data may remain.
 
 MANAGER INTAKE
 The live course includes an incident-intake card under the manager setup section.
