@@ -1,5 +1,5 @@
-WHAT CHANGED IN 1.0.13
+WHAT CHANGED IN 1.0.14
 
-Visible team-setup entry on the overview. New short manager launch route with prerequisites, untested planning time, guide links, support and honest completion limits. Optional unscored Use this at work panel after passing. Storage and assessment logic unchanged; no telemetry or outreach. Existing five-page guide remains unchanged.
+Decluttered fresh overview: no empty progress dashboard, storage controls grouped under Saving and reset options. Saving options link opens and focuses the control. Returning progress stays visible. Manager launch shows one step at a time with labelled Next/Back and keyboard focus. All prerequisites/limits remain available in their relevant steps. No new saved state, telemetry or assessment changes. Guide unchanged.
 
-Automated/model QA is not human testing or proof of learning.
+Automated checks are not human usability testing.
