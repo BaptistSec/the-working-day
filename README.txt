@@ -1,73 +1,77 @@
 THE WORKING DAY
-Free workplace security awareness for UK small businesses
+Free workplace security practice for UK small businesses
 Published by William Baptist | Tidy Desk Digital
 
 START
-1. Extract the ZIP into a folder. Keep all files together.
+1. Open the downloaded ZIP, which is a package of files, and extract it into
+   a folder. Keep all files together.
 2. Open index.html in a current web browser.
-3. Start the working day. Inspect request details, route routine work and build a
-   practice incident report. Then review the learning modules and their checks.
-   Press Finish module and continue after the two correct checks in each module.
-4. Take the final assessment, one question at a time. The local completion standard is 13 out of 16.
-5. If you meet the standard, optionally enter a name and print/save the learning record.
+3. Start the working day. Inspect requests, decide what to do and build a
+   practice report. Then read the modules and answer their practice checks.
+4. Press Finish module and continue after both checks are correct.
+5. Take the 16-question assessment. The course's chosen passing score is 13.
+6. If you pass, you can add an optional name and print the completion record.
 
-No account, payment or internet connection is needed for the downloaded course.
-Official source links need internet access. Source sites have their own privacy policies.
+No account, payment or internet is needed for the downloaded course.
+Official source links need internet. Those sites have their own privacy rules.
 
 FOR MANAGERS
-Read the five-page Facilitator-Guide.pdf before rollout. Use Facilitator-Guide.docx to adapt the
-local-policy briefing for your organisation. Brief staff on real reporting contacts,
-urgent/out-of-hours routes, approved tools, sharing rules and payment verification.
-The game does not know your local policies. Use Learning-Transcript.html for a
-printable or assisted discussion route. Allow breaks, extra time and support.
+Read the five-page Facilitator-Guide.pdf. Use Facilitator-Guide.docx to fill in
+workplace contacts, urgent and backup routes, approved tools, sharing rules
+and payment checks. The game does not know your workplace policies.
+Learning-Transcript.html is a reading version for assisted discussion.
+Allow breaks and extra support. Never delay reporting a real problem for training.
 
 PRIVACY
-By default, progress is held only while the page is open. Saving on this device is
-optional. It uses this browser's local storage, not a server, and includes
-in-progress assessment answers/current question and inspected request details. Do not enable it on a
-shared device. The name entered for a printed record is not saved by the course.
-The course code contains no analytics, account login or result-reporting endpoint.
-A web host may still process normal request data if you use an online version.
-Use Reset all progress on the overview to remove the course's saved progress.
+Work is normally kept only while this page stays open. Optional saving keeps
+progress in this browser on this device, not on a course server. It includes
+choices, inspected request details, setup and module checks, unfinished
+assessment answers and question number, and the result and date. Do not use
+saving on a shared device. The optional print name is not saved.
+The course does not send activity or results to us or an employer. Optional
+progress is stored only in this browser on this device.
+A website provider may still handle normal connection details, such as your
+internet address and browser type. Source links open other websites.
+Use one course tab. If another tab changes saved progress, saving pauses
+here and explains how to reload the latest progress. Current unsaved work
+may be lost on reload. This does not guarantee safe simultaneous changes.
+Reset progress clears this page and tries to remove saved progress. If saved
+data cannot be removed, it says so. Clear the site through browser settings
+before leaving a shared device. Browser support for saved local files varies.
 
-LIMITS
-This is a local learning activity, not an accredited course, a legal opinion,
-NCSC-approved training, Cyber Essentials certification or a compliance guarantee.
-The completion record is not independently verified, identity-verified or tamper-proof.
-No result is automatically sent to an employer. Use an approved employer process
-if you need formal attendance or learning records.
+WHAT THE RECORD DOES NOT PROVE
+This is a learning activity, not an officially recognised qualification,
+a legal opinion or an approved National Cyber Security Centre course.
+Cyber Essentials is a separate approval scheme for a business's technical
+security protections. Passing this course does not give that approval.
+Nobody independently checks the learner's identity. A learner can change
+local records. Use your workplace's approved process for formal attendance.
+No result is automatically sent to an employer.
 
-CURRENCY
-Law and guidance checked 6 October 2026. No unconfirmed 2027 legal rule is claimed.
-Recheck official guidance before later rollout; planned review after 26 October 2026. This is a recommendation,
-not a promise of automatic monitoring or updates.
-The source ledger is in Help & sources and in Learning-Transcript.html.
+LAW AND SOURCES
+Law and guidance checked 6 October 2026. No unconfirmed 2027 rule is claimed.
+Check official advice before later use. A review after 26 October 2026 is
+recommended, not an automatic update or watch. Source-Notes.txt and the
+reading version explain which sources support the teaching examples.
 
-TECHNICAL USE
-The course is a static website with relative file paths and no external dependencies.
-It may be served from any suitable static host. The interactive entrypoint is index.html.
-No build step is required. No SCORM, LMS integration or central reporting is included.
-Progress belongs to the browser and version of the course, not a verified identity.
-Browser storage availability for local files varies; saving is optional.
-
-Do not enter real passwords, codes, customer information or live incident details
-into the game. All in-game people, domains, messages and actions are fictional.
+PUTTING THE COURSE ON A WEBSITE
+The course files work as they are. Put them together on a website that can
+serve ordinary web-page files (HTML, JavaScript and CSS). No build or extra software
+is needed. index.html is the starting page. This package does not connect
+to an employer training system or send central attendance or results.
+Do not enter passwords, codes, customer records or real security reports.
+All game people, messages, websites and actions are fictional.
 
 TESTING LIMITS
-Browser logic, keyboard paths, responsive layouts and automated accessibility
-checks were reviewed before release. This does not establish native device/browser
-coverage, formal screen-reader/WCAG conformance, demonstrated workplace competence,
-training retention or a validated duration.
+Computer-run checks covered choices, keyboard use, narrow screens, saving
+and some accessibility rules. Labelled simulated learners are not real user
+trials. This is not proof of working on every real device, browser or tool
+that reads the screen aloud. We have not measured real staff learning,
+how much people remember later or completion time. No perfect-usability claim is made.
 
 VERSION NOTE
-Version 1.0.10 improves narrow-screen reading and transcript printing.
-With scripts on, printing includes feedback and restores screen disclosures.
-With scripts off, open required sections manually before browser printing.
-Supported public saved versions are 1.0.2-1.0.7 and 1.0.9. Version 1.0.8 was
-held, not released; its internal candidate state is accepted defensively.
-One course tab remains recommended; multi-tab protection is not atomic.
-
-MANAGER INTAKE
-The live course includes an incident-intake card under the manager setup section.
-It supports report receipt, ownership and escalation under your existing response
-plan; it is not a complete response plan or a place to enter live incident details.
+The plain-English update explains or removes specialist terms throughout
+the course and its documents, without changing who may act or legal duties.
+Supported public saved versions are 1.0.2 through 1.0.7, 1.0.9 and 1.0.10.
+Version 1.0.8 was held, not publicly released. Its test state is accepted
+for safe handling, not claimed as a public release.
