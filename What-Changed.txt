@@ -1,7 +1,7 @@
-WHAT CHANGED IN 1.0.16
+WHAT CHANGED IN 1.0.18
 
-Includes held v1.0.15 learning-overview declutter: one next action, full module catalogue available, no unvalidated module minute labels. v1.0.15 was not released.
+Includes held v1.0.17 module learning/check navigation; v1.0.17 was not released.
 
-Fix: saved progress from compatible 1.0 patch releases (starting 1.0.2 through current) is loaded through the existing validation routine. This includes 1.0.12/1.0.13/1.0.14, and automatically includes the previous patch on later 1.0 bumps. Future patches/major/minor versions remain unsupported and untouched. New schema changes will need a separate migration. Score/identity are still not independently verified.
+Print starts practice checks on a new page and hides on-screen learning/check/back jump links. Check feedback announcement now includes the current two-check count without another live region. Re-clicking an answer on a finished module keeps the finished label. Display/print changes only; score/storage/completion rules unchanged. No telemetry.
 
-Automated/model checks are not human learning or timing evidence. No telemetry or outreach.
+Automated/model checks are not human learning evidence.
