@@ -1,22 +1,38 @@
-WHAT CHANGED IN 1.0.10
+WHAT CHANGED IN 1.0.12
 
-- Reading transcript source URLs wrap on narrow screens instead of pushing
-  the page horizontally. Checked at 320, 390 and 1280 CSS pixels.
-- Printing the transcript with scripts enabled opens feedback/details for
-  the printout and restores the reader's prior open/closed sections after.
-  Mixed open/closed states and repeated print events are handled.
-- With scripts off, the reading route still works. A visible note explains
-  that sections must be opened manually before browser printing; closed
-  sections may not print. The Print button is labelled with feedback.
-- Supported earlier saved progress is retained, including public v1.0.9.
+Clarified the different reporting duties for a business deciding why and how personal information is used and a business handling that information for a customer following the customer's instructions. The first assesses regulator reporting and its own 72-hour clock; the second tells the customer without unnecessary delay once aware. Added this to the manager legal detail, reading version, guide and source notes. Staff still report quickly.
 
-Labelled scripted/model personas: scripts-disabled employee, assisted
-reading facilitator, narrow-screen offline reader and reader printing mixed
-open/closed sections. No-JS navigation, internal links, reflow, print event
-restoration and PDF feedback content checks pass. Full prior regression,
-108 edges/80 nodes and automated accessibility checks pass locally.
-Actual source-list mobile, no-JS note and PDF pages inspected.
+WHAT CHANGED IN 1.0.11
 
-No human/native-device/screen-reader/all-browser-print, conformance,
-learning-effectiveness, duration or perfection claim. The facilitator guide
-is unchanged, five pages. No legal or accreditation content changed.
+A single plain-English revision across the interactive course, all possible
+task outcomes, modules, practice, help, manager card, reading version,
+team guide, README, source notes and listing.
+
+Specialist terms are removed or explained where needed. The approved
+private-network connection (VPN) keeps its limits. Only approve sign-ins
+you started. Password changes are kept separate from signing an account
+out on devices or apps where it is already signed in.
+
+The personal information guidance still covers wrong sharing, access,
+loss, changes, damage and inability to use information. Staff report
+quickly. The organisation assesses risk, records decisions and tells the
+regulator or affected people when required. The 72 hours is not a staff
+waiting period. Qualification, privacy and completion-record limits remain.
+
+Module summaries now match the revised section headings. All choices,
+possible outcomes, completion gates and saving behavior remain in place.
+Supported public saved versions: 1.0.2 through 1.0.7, 1.0.9 and 1.0.10.
+The held 1.0.8 test state is accepted safely, not called a public release.
+
+RECENT EARLIER FIXES
+1.0.10: reading source links fit narrow screens. Printing opens feedback
+and restores the sections that were open before printing. With scripts
+off, the reading version explains that sections must be opened manually.
+1.0.9: saving pauses if another course tab changes stored progress. Use
+one tab and reload the latest progress. This does not guarantee safe
+simultaneous edits. No answers or results are automatically combined.
+
+TESTING LIMITS
+Computer-run checks and fictional learner walkthroughs are not real learner
+trials. No measured learning, staff completion time, long-term memory,
+formal accessibility approval or perfect-usability claim is made.
