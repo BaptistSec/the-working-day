@@ -2,6 +2,8 @@ THE WORKING DAY
 Free workplace security practice for UK small businesses
 Published by William Baptist | Tidy Desk Digital
 
+tidydesksoftware@outlook.com
+
 START
 1. Open the downloaded ZIP, which is a package of files, and extract it into
    a folder. Keep all files together.
