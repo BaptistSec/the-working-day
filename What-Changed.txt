@@ -1,17 +1,22 @@
-WHAT CHANGED IN 1.0.9
+WHAT CHANGED IN 1.0.10
 
-Includes the private 1.0.8 cross-tab protection: pause saving when stored
-progress changes elsewhere, no automatic answer/result merging, reload and
-single-tab instructions, supported saved-state migration.
+- Reading transcript source URLs wrap on narrow screens instead of pushing
+  the page horizontally. Checked at 320, 390 and 1280 CSS pixels.
+- Printing the transcript with scripts enabled opens feedback/details for
+  the printout and restores the reader's prior open/closed sections after.
+  Mixed open/closed states and repeated print events are handled.
+- With scripts off, the reading route still works. A visible note explains
+  that sections must be opened manually before browser printing; closed
+  sections may not print. The Print button is labelled with feedback.
+- Supported earlier saved progress is retained, including public v1.0.9.
 
-Independent QA found one stale UI path: compare-before-write paused saving
-but left the home checkbox/hint claiming it was on. A shared pause function
-now updates the state, warning, checkbox and hint immediately from both
-storage-event and comparison paths. Added assertions before render/reload
-and warning persistence across routes. Both paths pass current checks.
+Labelled scripted/model personas: scripts-disabled employee, assisted
+reading facilitator, narrow-screen offline reader and reader printing mixed
+open/closed sections. No-JS navigation, internal links, reflow, print event
+restoration and PDF feedback content checks pass. Full prior regression,
+108 edges/80 nodes and automated accessibility checks pass locally.
+Actual source-list mobile, no-JS note and PDF pages inspected.
 
-Existing scenario/report/assessment/state/accessibility tests pass locally.
-This remains defensive, not an atomic multi-tab transaction or browser-wide
-guarantee. Guide unchanged, five pages. No human/conformance/learning or
-legal/accreditation claims added. 1.0.8 was held for this fix, not released
-by this task. No live changes.
+No human/native-device/screen-reader/all-browser-print, conformance,
+learning-effectiveness, duration or perfection claim. The facilitator guide
+is unchanged, five pages. No legal or accreditation content changed.
