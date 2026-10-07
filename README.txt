@@ -60,12 +60,11 @@ coverage, formal screen-reader/WCAG conformance, demonstrated workplace competen
 training retention or a validated duration.
 
 VERSION NOTE
-Version 1.0.7 makes repeat practice repeat the active report/inbox actions
-and keeps saving or clearing failures visible. It retains the optional
-changed-facts cases, missed-answer review and next-unfinished-step resume.
-Valid 1.0.2 through 1.0.6 saved progress is retained in the same browser.
-Earlier 1.0.1 progress is not migrated. If removal fails, reset explains
-that current-page progress is cleared but saved browser data may remain.
+Version 1.0.9 pauses saving when another tab changes saved progress, with
+instructions to reload and use one course tab. This avoids known stale
+writes, not every possible simultaneous race. Do not rely on multi-tab use.
+Valid 1.0.2 through 1.0.7 progress is retained. Earlier 1.0.1 is not migrated.
+Saving/clearing failures and repeat-practice actions remain explicit.
 
 MANAGER INTAKE
 The live course includes an incident-intake card under the manager setup section.
