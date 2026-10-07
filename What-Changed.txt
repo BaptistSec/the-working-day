@@ -1,5 +1,7 @@
-WHAT CHANGED IN 1.0.14
+WHAT CHANGED IN 1.0.16
 
-Decluttered fresh overview: no empty progress dashboard, storage controls grouped under Saving and reset options. Saving options link opens and focuses the control. Returning progress stays visible. Manager launch shows one step at a time with labelled Next/Back and keyboard focus. All prerequisites/limits remain available in their relevant steps. No new saved state, telemetry or assessment changes. Guide unchanged.
+Includes held v1.0.15 learning-overview declutter: one next action, full module catalogue available, no unvalidated module minute labels. v1.0.15 was not released.
 
-Automated checks are not human usability testing.
+Fix: saved progress from compatible 1.0 patch releases (starting 1.0.2 through current) is loaded through the existing validation routine. This includes 1.0.12/1.0.13/1.0.14, and automatically includes the previous patch on later 1.0 bumps. Future patches/major/minor versions remain unsupported and untouched. New schema changes will need a separate migration. Score/identity are still not independently verified.
+
+Automated/model checks are not human learning or timing evidence. No telemetry or outreach.
