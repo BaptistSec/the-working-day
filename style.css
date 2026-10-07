@@ -18,3 +18,7 @@ main:focus{outline:none}.decision:focus{outline:3px solid #935b00;outline-offset
 .explanation{border-bottom:0;padding-bottom:0}.module-content>section{margin:26px 0}.module-content>section+section{padding-top:22px}.module-content .explanation>p{margin-top:12px}.active-work details{padding:10px 0}.active-work details label{font-size:15px}.course-progress .progress-stages{gap:6px 16px}
 /* Keep the keyboard skip link out of stitched/scrolled page content until focused. */
 .skip:not(:focus){width:1px;height:1px;padding:0;overflow:hidden;clip-path:inset(50%)}
+
+.module-jumps{display:flex;flex-wrap:wrap;gap:12px 24px;margin:20px 0}.module-jumps a{padding:8px 0}#practice-heading,#module-top{scroll-margin-top:20px}
+
+@media print{#module-practice{break-before:page;page-break-before:always}#practice-heading{break-after:avoid;page-break-after:avoid}}
