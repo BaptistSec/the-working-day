@@ -1,101 +1,75 @@
 THE WORKING DAY: SOURCE NOTES
 Law and guidance checked 6 October 2026.
 
-The course uses official guidance as a basis for original teaching examples.
-No official source endorses this course. Practical workflow choices are policy-led
-recommendations, not quoted legal duties.
+These sources support original fictional teaching examples. No source approves or endorses this course. Your workplace policies decide the approved tools, contacts and actions.
 
-S1: NCSC: Top Tips for Staff
+S1: UK National Cyber Security Centre: advice for staff
 https://www.ncsc.gov.uk/information/top-tips-for-staff
-Supports: Staff training scope; training complements technical protection.
-Used in modules: phishing, devices
+Supports: Staff habits support, but do not replace, security protections on computers and accounts.
 
-S2: NCSC: Phishing attacks
+S2: UK National Cyber Security Centre: checking deceptive messages
 https://www.ncsc.gov.uk/guidance/phishing
-Supports: Independent verification, layered defences and supportive reporting.
-Used in modules: remote, phishing, social, incidents
+Supports: Use a separate trusted way to check requests, several security protections and supportive reporting.
 
-S3: NCSC: Secure your important online accounts
+S3: UK National Cyber Security Centre: protect important accounts
 https://www.ncsc.gov.uk/collection/small-organisations-guide-to-cyber-security/secure-your-important-online-accounts
-Supports: Unique passwords, password managers, MFA and passkeys.
-Used in modules: accounts
+Supports: Use different strong passwords, approved tools that store passwords and extra sign-in checks. Sign-in methods that use your device or a physical key can resist fake login pages.
 
-S4: NCSC: Why MFA matters
+S4: UK National Cyber Security Centre: extra sign-in checks
 https://www.ncsc.gov.uk/collection/mfa-for-your-corporate-online-services/why-mfa-matters
-Supports: Benefits and limits of MFA.
-Used in modules: accounts
+Supports: Benefits and limits of a second check when signing in.
 
-S5: NCSC: Advice for End Users
+S5: UK National Cyber Security Centre: advice for people using work devices
 https://www.ncsc.gov.uk/guidance/end-user-devices-advice-end-users
-Supports: Managed devices, travel, physical security and loss reporting.
-Used in modules: remote, accounts, social, data, devices, incidents
+Supports: Work-managed devices, travel, physical security and reporting loss.
 
-S6: NCSC: Response and recovery
+S6: UK National Cyber Security Centre: handling security problems
 https://www.ncsc.gov.uk/collection/small-business-guidance--response-and-recovery
-Supports: Preparing for and responding to incidents.
-Used in modules: incidents
+Supports: Prepare for problems, stop further harm and restore safe work.
 
-S7: ICO: Personal data breaches
+S7: UK data protection regulator: personal information problems
 https://ico.org.uk/for-organisations/report-a-breach/personal-data-breach/personal-data-breaches-a-guide/
-Supports: Breach definition, risk thresholds, recording and notification.
-Used in modules: data, incidents, law
+Supports: When personal information is lost, wrongly shared, changed, damaged, unavailable or accessed without permission; likely harm, records and who must be told.
 
-S8: ICO: The first 72 hours
+S8: UK data protection regulator: first steps after a personal information problem
 https://ico.org.uk/for-organisations/advice-for-small-organisations/personal-data-breaches/72-hours-how-to-respond-to-a-personal-data-breach/
-Supports: Containment, investigation and risk assessment.
-Used in modules: data, incidents, law
+Supports: Stop further harm, find out what happened and assess the likely harm to people.
 
-S9: NCSC: Cyber Essentials
+S9: UK National Cyber Security Centre: Cyber Essentials approval scheme
 https://www.ncsc.gov.uk/cyberessentials/overview
-Supports: Certification context; staff training is not certification.
-Used in modules: devices, law
+Supports: A separate scheme checking security protections on computers and accounts. Staff training is not this approval.
 
-S10: ICO: Data (Use and Access) Act 2025
+S10: UK data protection regulator: Data (Use and Access) Act 2025
 https://ico.org.uk/about-the-ico/what-we-do/legislation-we-cover/data-use-and-access-act-2025/
-Supports: Current data protection reform context.
-Used in modules: law
+Supports: Changes to UK data protection law.
 
-S12: NCSC: QR codes and their risks
+S12: UK National Cyber Security Centre: square scanning codes
 https://www.ncsc.gov.uk/blog-post/qr-codes-whats-real-risk
-Supports: QR phishing context and proportionate caution.
-Used in modules: phishing
+Supports: A code scanned with a phone camera can open a deceptive website.
 
-S13: US FTC: Public Wi-Fi safety
+S13: US Federal Trade Commission: public wireless networks
 https://consumer.ftc.gov/articles/are-public-wi-fi-networks-safe-what-you-need-know
-Supports: Encrypted connections do not prove a website is trustworthy.
-Used in modules: remote, phishing
+Supports: A protected connection does not prove a website or request is trustworthy. This is practical advice, not UK law.
 
-S15: NCSC: Virtual Private Networks
+S15: UK National Cyber Security Centre: protected work connections
 https://www.ncsc.gov.uk/collection/device-security-guidance/infrastructure/virtual-private-networks
-Supports: Organisational VPN purpose; need depends on architecture and policy.
-Used in modules: remote
+Supports: An approved private-network connection (VPN) connects to work systems. Workplace design and policy decide when one is needed.
 
-S14: Swiss NCSC: Deepfake CEO fraud
+S14: Swiss National Cyber Security Centre: imitation voices and payment fraud
 https://www.ncsc.admin.ch/ncsc/en/home/aktuell/im-fokus/2024/wochenrueckblick_14.html
-Supports: Voice/video impersonation and independent payment verification; not UK law.
-Used in modules: social
+Supports: Computer-made voices or videos can imitate a manager. Use established payment checks. This is not UK law.
 
-S11: UK Parliament: Cyber Security and Resilience (Network and Information Systems) Bill
+S11: UK Parliament: proposed Cyber Security and Resilience law
 https://bills.parliament.uk/bills/4035
-Supports: Bill status only; not treated as an enacted universal staff duty.
-Used in modules: law
+Supports: A proposal being considered by Parliament in the checked record, not an existing universal duty for staff.
 
-BOUNDARIES
-- UK GDPR breach notification is risk-based and is the organisation's duty.
-  Internal staff reporting should be prompt. The 72-hour notification period runs
-  from organisational awareness, not a permission for individual staff to wait.
-- PECR timescale reform concerns public electronic communications providers.
-  It is not presented as a universal duty for ordinary SME workers.
-- The Cyber Security and Resilience (Network and Information Systems) Bill is
-  treated as a Bill in the checked parliamentary record, not enacted law.
-- FTC and Swiss NCSC sources explain technical/social-engineering points, not UK law.
-- Recall/deletion promises are presented as evidence for assessment, not automatic
-  proof of containment. Local response teams should document their decisions.
-- VPN, security profile, password recovery and device-isolation examples defer
-  to the organisation's approved procedures.
-- No false claim of independent testing, accreditation, authorship or certification
-  is made. The publisher credit identifies who publishes the work.
+IMPORTANT LIMITS
+Staff should report quickly. A personal-data breach is a security problem involving loss, destruction, change, damage, improper sharing or access to information about identifiable people; unavailability can count too. The organisation deciding why and how it is used assesses regulator reporting, records every personal-data breach and the reasons for its decisions, even when no regulator report is needed, and tells affected people if the risk to them is high. Its required regulator report is due without unnecessary delay and, where possible, within 72 hours of its awareness. An organisation handling that information for it following its instructions tells it without unnecessary delay once aware of a breach, regardless of the regulator reporting risk threshold. It must tell the regulator unless a risk to people's rights and freedoms is unlikely. This assessment includes possible harm to privacy, fraud, discrimination and other harm to the people affected. Neither rule permits staff to wait.
+The separate deadline for public phone and internet providers is not a universal staff deadline.
+The proposed Cyber Security and Resilience law was still being considered in the checked Parliament record.
+A promise to delete information is evidence to assess, not proof that the risk is gone.
+Follow workplace instructions for protected connections, device settings, password changes and disconnecting devices.
+This course has no independent approval and cannot prove who completed it or that the business meets legal requirements.
 
 REVIEW
-Recheck official legal and guidance sources before future deployment, with a planned
-review after 26 October 2026. This document does not schedule or promise monitoring.
+Check official law and guidance before later use. A review after 26 October 2026 is recommended, not automatically scheduled.
