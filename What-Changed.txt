@@ -1,5 +1,3 @@
-WHAT CHANGED IN 1.0.22
+WHAT CHANGED IN 1.0.23
 
-Every course route reviewed for repeated wording. Shorter home, module, assessment, practice, team, manager and help instructions; repeated labels and identical expanded module paragraphs removed.
-
-Distinct teaching examples, legal duties, privacy and local-authority limits, decisions, checks and assessment answers are retained. No scoring, saving, completion rules or price changed. Standalone reading and facilitator documents keep the context they need for offline use.
+Module practice shows one check at a time. Next check appears after the first is correct; Previous check remains available. The finish gate still requires both correct. Printed modules show both checks. No question, answer, teaching explanation, scoring or saved-progress rule changed.
