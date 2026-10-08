@@ -1,7 +1,7 @@
-WHAT CHANGED IN 1.0.20
+WHAT CHANGED IN 1.0.21
 
-One centered workspace replaces the simultaneous navigation rails. The task list starts closed and opens as its own view. The optional guide starts closed for new sessions; an explicitly saved guide preference is retained. Menu still provides all course tools.
+Task progress and the task-list link share one quiet row. One task title and one time/channel line replace the competing labels. Removed the redundant sender/remote-day label from the task header; the fictional task data and teaching flow remain unchanged.
 
-Each task has one meaningful title. Learning and practice checks are separate views with a clear Continue action and a way back. Both remain in printed modules. Progress details are available when opened, rather than competing with the next step.
+Footer credits, version and links align with the centered course text, without a second link indentation. Phone layout uses the same readable text column.
 
-More space around text, tasks and choices, a readable text width, and a quieter menu. No teaching choices, assessment questions, completion rules, scores, price or saved-progress key changed. No human learner or completion-time claim.
+No assessment, controls, scores, saving rules, price or completion flow changed.
