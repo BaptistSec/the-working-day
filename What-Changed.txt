@@ -1,7 +1,9 @@
-WHAT CHANGED IN 1.0.18
+WHAT CHANGED IN 1.0.19
 
-Includes held v1.0.17 module learning/check navigation; v1.0.17 was not released.
+Office-window design with one title, Save and Menu header. Keyboard navigation and phone task views improved.
 
-Print starts practice checks on a new page and hides on-screen learning/check/back jump links. Check feedback announcement now includes the current two-check count without another live region. Re-clicking an answer on a finished module keeps the finished label. Display/print changes only; score/storage/completion rules unchanged. No telemetry.
+Saved progress retains the existing storage key and compatible 1.0 patch schema. Current route and Guide visibility now save when saving is on. Saving pauses if another tab writes newer work. Malformed/future records remain untouched.
 
-Automated/model checks are not human learning evidence.
+Reading version aligned to plum/sans-serif, with improved heading and task-intro print pagination. Completion record uses plum/sans-serif. Footer has one contentinfo landmark.
+
+Teaching text, decisions, assessment questions, scores, privacy limits and free price are unchanged. No human learner pilot or completion-time claim.
