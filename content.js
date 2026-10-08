@@ -1,4 +1,4 @@
-const META={version:'1.0.19',checked:'6 October 2026',publisher:'Published by William Baptist | Tidy Desk Digital'};
+const META={version:'1.0.20',checked:'6 October 2026',publisher:'Published by William Baptist | Tidy Desk Digital'};
 const SOURCES=[
   [
     "S1",
