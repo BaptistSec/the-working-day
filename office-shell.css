@@ -33,3 +33,9 @@
 @media print{.task-toolbar{display:none!important}}
 
 @media print{#module-practice .check[hidden]{display:block!important}}
+
+/* Current task title sits above the task counter, outside the workspace. */
+.current-task-title{font-size:36px;line-height:1.2;max-width:22ch;margin:0 0 20px}.day-layout .message-head .meta{margin-top:0}
+@media screen and (max-width:750px){.current-task-title{font-size:30px;max-width:21ch}}
+
+@media print{.day-layout{display:block!important}.current-task-title{max-width:none}}
