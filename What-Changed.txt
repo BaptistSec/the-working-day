@@ -1,3 +1,7 @@
+WHAT CHANGED IN 1.0.29
+
+Printed Team setup includes all three steps and the staff briefing and completion-record limits. The on-screen step and open or closed details return unchanged after printing. No teaching content, answers or scoring changed.
+
 WHAT CHANGED IN 1.0.28
 
 Moving between missed assessment answers keeps the optional completion-record name and open answer review intact. The name remains unsaved. No questions, answers or scoring changed.
