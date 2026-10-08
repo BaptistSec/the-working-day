@@ -1,7 +1,5 @@
-WHAT CHANGED IN 1.0.21
+WHAT CHANGED IN 1.0.22
 
-Task progress and the task-list link share one quiet row. One task title and one time/channel line replace the competing labels. Removed the redundant sender/remote-day label from the task header; the fictional task data and teaching flow remain unchanged.
+Every course route reviewed for repeated wording. Shorter home, module, assessment, practice, team, manager and help instructions; repeated labels and identical expanded module paragraphs removed.
 
-Footer credits, version and links align with the centered course text, without a second link indentation. Phone layout uses the same readable text column.
-
-No assessment, controls, scores, saving rules, price or completion flow changed.
+Distinct teaching examples, legal duties, privacy and local-authority limits, decisions, checks and assessment answers are retained. No scoring, saving, completion rules or price changed. Standalone reading and facilitator documents keep the context they need for offline use.
