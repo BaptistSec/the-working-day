@@ -72,9 +72,9 @@ that reads the screen aloud. We have not measured real staff learning,
 how much people remember later or completion time. No perfect-usability claim is made.
 
 VERSION NOTE
-This package is version 1.0.22. See What-Changed.txt. Version 1.0.17 was held and not publicly released.
+This package is version 1.0.23. See What-Changed.txt. Version 1.0.17 was held and not publicly released.
 The plain-English update explains or removes specialist terms throughout
 the course and its documents, without changing who may act or legal duties.
-Saved progress from versions 1.0.2 through 1.0.22 is accepted.
+Saved progress from versions 1.0.2 through 1.0.23 is accepted.
 Version 1.0.8 was held, not publicly released. Its test state is accepted
 for safe handling, not claimed as a public release.
