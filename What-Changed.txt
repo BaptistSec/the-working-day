@@ -1,3 +1,7 @@
+WHAT CHANGED IN 1.0.25
+
+Printed Practice desk includes all six sorting cards, not only the current card. The on-screen single-card flow and answers remain unchanged.
+
 v1.0.24 - Current task title moved above the task counter and removed from the main workspace. Original request sits above Related learning after practice or decisions begin. No task or learning content changes.
 
 WHAT CHANGED IN 1.0.23
