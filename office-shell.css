@@ -39,3 +39,6 @@
 @media screen and (max-width:750px){.current-task-title{font-size:30px;max-width:21ch}}
 
 @media print{.day-layout{display:block!important}.current-task-title{max-width:none}}
+
+/* Print every optional practice card without changing the screen selection. */
+@media print{[data-practice-card][hidden]{display:block!important}[data-practice-card]{break-inside:avoid;page-break-inside:avoid}}
