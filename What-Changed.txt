@@ -1,9 +1,7 @@
-WHAT CHANGED IN 1.0.19
+WHAT CHANGED IN 1.0.20
 
-Office-window design with one title, Save and Menu header. Keyboard navigation and phone task views improved.
+One centered workspace replaces the simultaneous navigation rails. The task list starts closed and opens as its own view. The optional guide starts closed for new sessions; an explicitly saved guide preference is retained. Menu still provides all course tools.
 
-Saved progress retains the existing storage key and compatible 1.0 patch schema. Current route and Guide visibility now save when saving is on. Saving pauses if another tab writes newer work. Malformed/future records remain untouched.
+Each task has one meaningful title. Learning and practice checks are separate views with a clear Continue action and a way back. Both remain in printed modules. Progress details are available when opened, rather than competing with the next step.
 
-Reading version aligned to plum/sans-serif, with improved heading and task-intro print pagination. Completion record uses plum/sans-serif. Footer has one contentinfo landmark.
-
-Teaching text, decisions, assessment questions, scores, privacy limits and free price are unchanged. No human learner pilot or completion-time claim.
+More space around text, tasks and choices, a readable text width, and a quieter menu. No teaching choices, assessment questions, completion rules, scores, price or saved-progress key changed. No human learner or completion-time claim.
