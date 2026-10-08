@@ -1,3 +1,7 @@
+WHAT CHANGED IN 1.0.27
+
+Moving between Practice desk sorting cards keeps report selections, generated reports and open optional sections intact. No teaching content, answers or scoring changed.
+
 WHAT CHANGED IN 1.0.26
 
 Printed Practice desk expands the report exercise, changed-facts exercise and colleague prompts. Each section returns to its previous open or closed state after printing. No teaching content, answers or saved-progress rules changed.
