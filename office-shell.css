@@ -42,3 +42,5 @@
 
 /* Print every optional practice card without changing the screen selection. */
 @media print{[data-practice-card][hidden]{display:block!important}[data-practice-card]{break-inside:avoid;page-break-inside:avoid}}
+/* Keep the short printed colleague discussion together. */
+@media print{body[data-route=practice] #main details:last-child{break-inside:avoid;page-break-inside:avoid}body[data-route=practice] #main details summary{break-after:avoid;page-break-after:avoid}}
