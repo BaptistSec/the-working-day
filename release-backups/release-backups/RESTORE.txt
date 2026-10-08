@@ -1,0 +1,15 @@
+THE WORKING DAY: PINNED BACKUPS, 8 OCTOBER 2026
+
+1. live-v1.0.18-before-office.zip
+Exact Git snapshot of origin/main commit 1fca372c787e4564a7ce700e6f814595b213149d before this release.
+SHA256 6cacdebb3f2510245fa3da159e541b0e5f555df66517d7ed3f55346cab917d2e
+This is the previously published v1.0.18, using the production saved-progress key.
+
+2. approved-office-private-review.zip
+Source-only snapshot of the privately approved office design. Supporting review notes and test workspaces are excluded.
+SHA256 022b522f5e3d107ec69f40b1cefacc285778bd83a78d766b7b07c69219a53041
+This is a PRIVATE review build, not a deployable production backup. It uses an isolated save key and private review wording. It preserves the reviewed design; do not publish it without a production release conversion and gates.
+
+Restore the published version safely: start from a fresh current main checkout; extract backup 1 into a temporary folder; verify its SHA256 first; replace the tracked course files using that snapshot while retaining release-backups; review the diff; run regression and saved-progress checks; commit the restored bytes and push the new rollback commit. Do not force-reset or rewrite repository history. No learner storage deletion is needed. Older v1.0.18 code rejects v1.0.19 saves as future. A source rollback preserves those bytes but does not open them; the earlier same-version rehearsal is not cross-version rollback fidelity. Do not delete them to make old code load.
+
+Both ZIP archives passed CRC integrity checks and were extracted for byte-for-byte comparison against their source snapshots before release. The current source commit is also permanently named by its full object ID above; no package here changes stored learner progress by itself.
