@@ -1,3 +1,7 @@
+WHAT CHANGED IN 1.0.42
+
+Optional Practice desk report choices stay selected while you leave and return in the same open page. Check and assemble remains an explicit action; previous feedback is cleared on return. These choices are not saved on reload, and reset clears them. Teaching text and scoring are unchanged.
+
 WHAT CHANGED IN 1.0.41
 
 Partially checked workspace preparation stays checked while you move away and return in the same open page. You still need all four checks and must choose Use this setup. These partial checks are not saved on reload, and restart or reset clears them. Teaching text and scoring are unchanged.
