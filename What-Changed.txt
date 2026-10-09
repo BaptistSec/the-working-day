@@ -1,3 +1,7 @@
+WHAT CHANGED IN 1.0.40
+
+When you return to a request inspection, the last inspected detail is shown again beside the recorded inspected count. Its button is marked expanded. Teaching text, choices and completion rules are unchanged.
+
 WHAT CHANGED IN 1.0.39
 
 The reporting route chosen in Taylor's report task now stays selected while you move to another task and return in the same open page. It is not saved on reload. Restarting the task or resetting progress clears it. Facts, choices and scoring are unchanged.
