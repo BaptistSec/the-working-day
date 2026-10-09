@@ -1,3 +1,7 @@
+WHAT CHANGED IN 1.0.31
+
+Printed learning modules keep each short learning section together where possible, rather than splitting its title and explanation across pages. Screen layouts and teaching content are unchanged.
+
 WHAT CHANGED IN 1.0.30
 
 Printed learning modules include their detail, examples and source sections even when closed on screen. Each disclosure returns to its previous open or closed state after printing. No teaching content, answers or scoring changed.

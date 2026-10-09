@@ -47,3 +47,5 @@
 
 /* Print the full manager setup sequence, whichever screen step is active. */
 @media print{[data-team-step][hidden]{display:block!important}#team-step{display:none!important}[data-team-step]{break-inside:avoid;page-break-inside:avoid}}
+/* Keep short module teaching sections together in print. */
+@media print{body[data-route=library] .module-content h2,body[data-route=library] .module-content h3,body[data-route=library] .module-content summary{break-after:avoid;page-break-after:avoid}body[data-route=library] #module-learning>section{break-inside:avoid;page-break-inside:avoid}}
