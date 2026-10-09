@@ -1,3 +1,7 @@
+WHAT CHANGED IN 1.0.30
+
+Printed learning modules include their detail, examples and source sections even when closed on screen. Each disclosure returns to its previous open or closed state after printing. No teaching content, answers or scoring changed.
+
 WHAT CHANGED IN 1.0.29
 
 Printed Team setup includes all three steps and the staff briefing and completion-record limits. The on-screen step and open or closed details return unchanged after printing. No teaching content, answers or scoring changed.
