@@ -1,3 +1,7 @@
+WHAT CHANGED IN 1.0.39
+
+The reporting route chosen in Taylor's report task now stays selected while you move to another task and return in the same open page. It is not saved on reload. Restarting the task or resetting progress clears it. Facts, choices and scoring are unchanged.
+
 WHAT CHANGED IN 1.0.38
 
 In Taylor's report task, feedback names any guesses or secrets to leave out and observed facts still missing. Keyboard focus goes to the first item needing correction. Reporting facts, choices and scoring are unchanged.
