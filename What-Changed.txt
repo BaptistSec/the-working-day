@@ -1,3 +1,7 @@
+WHAT CHANGED IN 1.0.41
+
+Partially checked workspace preparation stays checked while you move away and return in the same open page. You still need all four checks and must choose Use this setup. These partial checks are not saved on reload, and restart or reset clears them. Teaching text and scoring are unchanged.
+
 WHAT CHANGED IN 1.0.40
 
 When you return to a request inspection, the last inspected detail is shown again beside the recorded inspected count. Its button is marked expanded. Teaching text, choices and completion rules are unchanged.
