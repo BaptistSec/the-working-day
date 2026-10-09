@@ -1,3 +1,7 @@
+WHAT CHANGED IN 1.0.38
+
+In Taylor's report task, feedback names any guesses or secrets to leave out and observed facts still missing. Keyboard focus goes to the first item needing correction. Reporting facts, choices and scoring are unchanged.
+
 WHAT CHANGED IN 1.0.37
 
 Printed changed-facts practice now keeps the first-request comparison heading and text together. Focus outlines and shadows are omitted from paper without changing screen keyboard cues. Teaching content, answer choices and scoring are unchanged.
