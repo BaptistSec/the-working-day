@@ -49,3 +49,10 @@
 @media print{[data-team-step][hidden]{display:block!important}#team-step{display:none!important}[data-team-step]{break-inside:avoid;page-break-inside:avoid}}
 /* Keep short module teaching sections together in print. */
 @media print{body[data-route=library] .module-content h2,body[data-route=library] .module-content h3,body[data-route=library] .module-content summary{break-after:avoid;page-break-after:avoid}body[data-route=library] #module-learning>section{break-inside:avoid;page-break-inside:avoid}}
+/* Optional pre-submission review stays readable beside the current question. */
+.quiz-choice-review [data-quiz-return]{text-align:left;display:block;padding:4px 0;font-weight:400;max-width:100%}.quiz-choice-review li{margin:18px 0}.quiz-choice-review li p{margin:6px 0 0}
+
+@media screen{[data-triage][aria-pressed="true"],[data-change-answer][aria-pressed="true"]{border-left:3px solid #553241;background:#f3e9ec;font-weight:700}}
+
+/* Keep the short first-request comparison together and omit transient keyboard focus decoration on paper. */
+@media print{.change-compare{break-inside:avoid;page-break-inside:avoid}:focus,:focus-visible{outline:none!important;box-shadow:none!important}}

@@ -1,3 +1,22 @@
+WHAT CHANGED IN 1.0.37
+
+Printed changed-facts practice now keeps the first-request comparison heading and text together. Focus outlines and shadows are omitted from paper without changing screen keyboard cues. Teaching content, answer choices and scoring are unchanged.
+
+WHAT CHANGED IN 1.0.36
+
+In the optional Practice desk cards and changed-facts cases, the route you last chose stays visibly marked while you review feedback or return to the card. Assistive technology can identify the selected route. Existing facts, answers and scoring are unchanged.
+
+WHAT CHANGED IN 1.0.35
+The optional Practice report builder now identifies which sections need correction after an unsafe choice, marks those sections and puts keyboard focus on the first one. Existing facts, answer choices and reporting guidance are unchanged.
+
+WHAT CHANGED IN 1.0.34
+
+In the optional changed-facts practice, you can reopen the first request while deciding what to do about the changed request. Your comparison stays open while you try an answer. Existing case text, answers and scoring are unchanged.
+
+WHAT CHANGED IN 1.0.33
+
+Before submitting the assessment, you can open an optional list of your choices and return directly to any question to change it. Unanswered questions are marked. The list does not reveal correct answers. Questions, scoring and saving rules are unchanged.
+
 WHAT CHANGED IN 1.0.32
 
 The printed Manager reporting card includes its setup checklist and sources even when closed on screen. The disclosure returns to its previous open or closed state after printing. No teaching content changed.
