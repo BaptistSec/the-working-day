@@ -125,3 +125,6 @@ The result page keeps Review all 16 answers open or closed when visiting a learn
 
 Version 1.0.56 - Optional record print name
 The optional print name stays in this open page when visiting a learning module or another workspace and returning to the result. It is not saved in browser storage. Retake, confirmed reset and reload clear it. No scoring or teaching change.
+
+Version 1.0.57
+The overview preparation panel keeps its open or closed position when you visit course pages and return, only within the open page. Reset and reload start closed. No new saved progress, teaching or visible controls.
