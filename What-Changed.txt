@@ -1,3 +1,7 @@
+WHAT CHANGED IN 1.0.51
+
+The library keeps your Browse all modules and course progress panels open or closed while you visit a module and return in the same open page. Reload and reset start them closed. Teaching, scoring and saved progress are unchanged.
+
 WHAT CHANGED IN 1.0.50
 
 Expanded learning explanations and module sources keep their open or closed position when you leave and return in the same open page. Reload and reset start them closed. Teaching, scoring and saved progress are unchanged.
