@@ -52,7 +52,7 @@
 /* Optional pre-submission review stays readable beside the current question. */
 .quiz-choice-review [data-quiz-return]{text-align:left;display:block;padding:4px 0;font-weight:400;max-width:100%}.quiz-choice-review li{margin:18px 0}.quiz-choice-review li p{margin:6px 0 0}
 
-@media screen{[data-triage][aria-pressed="true"],[data-change-answer][aria-pressed="true"]{border-left:3px solid #553241;background:#f3e9ec;font-weight:700}}
+@media screen{[data-triage][aria-pressed="true"],[data-change-answer][aria-pressed="true"],[data-check][aria-pressed="true"]{border-left:3px solid #553241;background:#f3e9ec;font-weight:700}}
 
 /* Keep the short first-request comparison together and omit transient keyboard focus decoration on paper. */
 @media print{.change-compare{break-inside:avoid;page-break-inside:avoid}:focus,:focus-visible{outline:none!important;box-shadow:none!important}}

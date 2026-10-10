@@ -1,3 +1,7 @@
+WHAT CHANGED IN 1.0.49
+
+Your latest practice-check choice stays marked while you move away and return in the same open page. Reload and reset start with no marked choice. Feedback, earned progress and scoring are unchanged.
+
 WHAT CHANGED IN 1.0.48
 
 Practice-check feedback stays visible when you leave a module and return in the same open page. Each check keeps its latest correction until you answer again. Reload and reset use the existing saved progress or a fresh start. Teaching text and scoring are unchanged.
