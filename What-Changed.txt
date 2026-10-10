@@ -119,3 +119,6 @@ Module practice shows one check at a time. Next check appears after the first is
 
 Version 1.0.54 - Help disclosure position
 Help and course limits panels retain their individual open/closed position while this page stays open, including after visits to another workspace. Explicit closing stays closed. Reload and confirmed reset start closed. This is memory-only, with no new saved-progress field or teaching change.
+
+Version 1.0.55 - Result review panel position
+The result page keeps Review all 16 answers open or closed when visiting a learning module and returning in the same open page. Retake, reset and reload start closed. No saved-data or scoring change.
