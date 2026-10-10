@@ -162,3 +162,6 @@ Keep the short task Related learning heading and link together in print. Screen 
 
 Version 1.0.69
 Report-task route labels fit narrow phone screens. The existing hint keeps the full known reporting-contact and backup meaning. Native select behavior, route values and scoring unchanged.
+
+Version 1.0.70
+The report-route control includes its existing reporting-contact and backup hint in its accessible description, alongside validation feedback. Visible content, native control behavior and scoring unchanged.
