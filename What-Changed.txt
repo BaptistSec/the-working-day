@@ -159,3 +159,6 @@ Report-task validation guidance and field markers survive same-session navigatio
 
 Version 1.0.68
 Keep the short task Related learning heading and link together in print. Screen layout, interactions, teaching, scoring and saving unchanged.
+
+Version 1.0.69
+Report-task route labels fit narrow phone screens. The existing hint keeps the full known reporting-contact and backup meaning. Native select behavior, route values and scoring unchanged.
