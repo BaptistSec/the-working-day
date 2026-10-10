@@ -144,3 +144,6 @@ Your prepared report keeps its open or closed position when you visit another pa
 
 Version 1.0.63
 The practice desk keeps your open or closed choice for Discuss it with a colleague while you move around this session. Reset or reload clears it. No new saving or teaching content.
+
+Version 1.0.64
+Follow-ups from earlier choices keep their open or closed position when you move around this session. Different earlier outcomes have separate positions. Restarting the earlier task, reset and reload clear them. No new saving or teaching content.
