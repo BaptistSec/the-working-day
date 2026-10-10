@@ -1,3 +1,7 @@
+WHAT CHANGED IN 1.0.50
+
+Expanded learning explanations and module sources keep their open or closed position when you leave and return in the same open page. Reload and reset start them closed. Teaching, scoring and saved progress are unchanged.
+
 WHAT CHANGED IN 1.0.49
 
 Your latest practice-check choice stays marked while you move away and return in the same open page. Reload and reset start with no marked choice. Feedback, earned progress and scoring are unchanged.
