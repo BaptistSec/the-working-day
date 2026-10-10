@@ -147,3 +147,6 @@ The practice desk keeps your open or closed choice for Discuss it with a colleag
 
 Version 1.0.64
 Follow-ups from earlier choices keep their open or closed position when you move around this session. Different earlier outcomes have separate positions. Restarting the earlier task, reset and reload clear them. No new saving or teaching content.
+
+Version 1.0.65
+The four workspace setup explanations keep their open or closed position when you move around this session. Restarting the workspace task, reset and reload clear them. No new saving or teaching content.
