@@ -1,10 +1,10 @@
-v1.0.53 - Team setup panel positions
+v1.0.54 - Team setup panel positions
 The existing Brief your staff and Completion records and course limits panels keep their independent open/closed positions when you leave Team setup and return in the same open page. Explicit closing is retained. Reload and confirmed reset start closed. Memory-only; no teaching, scoring or saved-schema change.
 
-v1.0.53 - Reporting card checklist position
+v1.0.54 - Reporting card checklist position
 The existing Setup checklist and sources panel keeps its open/closed position when you leave the Reporting card and return in the same open page. Explicit closing is retained. Reload and confirmed reset start closed. Memory-only; no teaching, scoring or saved-schema change.
 
-WHAT CHANGED IN 1.0.53
+WHAT CHANGED IN 1.0.54
 
 The library keeps your Browse all modules and course progress panels open or closed while you visit a module and return in the same open page. Reload and reset start them closed. Teaching, scoring and saved progress are unchanged.
 
@@ -116,3 +116,6 @@ v1.0.24 - Current task title moved above the task counter and removed from the m
 WHAT CHANGED IN 1.0.23
 
 Module practice shows one check at a time. Next check appears after the first is correct; Previous check remains available. The finish gate still requires both correct. Printed modules show both checks. No question, answer, teaching explanation, scoring or saved-progress rule changed.
+
+Version 1.0.54 - Help disclosure position
+Help and course limits panels retain their individual open/closed position while this page stays open, including after visits to another workspace. Explicit closing stays closed. Reload and confirmed reset start closed. This is memory-only, with no new saved-progress field or teaching change.
