@@ -137,3 +137,5 @@ Why this matters explanations keep their chosen open/closed position during same
 
 Version 1.0.60
 Your prepared report keeps its open or closed position when you visit another page and return during this open session. Restart, reset and reload clear that position. No report content or saved-progress change.
+
+1.0.61 - The existing changed-facts practice disclosure keeps its open or closed choice while the current page session continues. Confirmed reset and reload clear it. No teaching, scoring or saved-schema change.
