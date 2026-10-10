@@ -56,3 +56,6 @@
 
 /* Keep the short first-request comparison together and omit transient keyboard focus decoration on paper. */
 @media print{.change-compare{break-inside:avoid;page-break-inside:avoid}:focus,:focus-visible{outline:none!important;box-shadow:none!important}}
+
+/* Keep the short task learning link with its heading in print. */
+@media print{body[data-route=day] .message>details:last-child{break-inside:avoid;page-break-inside:avoid}body[data-route=day] .message>details:last-child>summary{break-after:avoid;page-break-after:avoid}}

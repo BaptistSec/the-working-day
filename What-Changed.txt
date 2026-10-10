@@ -156,3 +156,6 @@ Assessment question validation messages survive same-session navigation and rere
 
 Version 1.0.67
 Report-task validation guidance and field markers survive same-session navigation and rerender. Editing selections clears guidance; successful preparation, restart, reset and reload clear it too. No change to teaching, scoring or saving.
+
+Version 1.0.68
+Keep the short task Related learning heading and link together in print. Screen layout, interactions, teaching, scoring and saving unchanged.
