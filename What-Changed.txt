@@ -1,3 +1,7 @@
+WHAT CHANGED IN 1.0.46
+
+Each learning module keeps your Learning or Practice checks view and current check while you move away and return in the same open page. Reload and reset start at Learning and the first check. Teaching text and scoring are unchanged.
+
 WHAT CHANGED IN 1.0.45
 
 Team setup keeps your current step while you move away and return in the same open page. Reload and reset start at setup. Teaching text and scoring are unchanged.
