@@ -134,3 +134,6 @@ Task disclosure positions now stay as chosen during same-page navigation and rer
 
 Version 1.0.59
 Why this matters explanations keep their chosen open/closed position during same-page navigation and rerender, independently for each task decision or outcome. Confirmed reset, reload and Try another route clear them. No teaching, scoring or saved-progress change.
+
+Version 1.0.60
+Your prepared report keeps its open or closed position when you visit another page and return during this open session. Restart, reset and reload clear that position. No report content or saved-progress change.
