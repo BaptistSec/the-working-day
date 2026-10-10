@@ -1,3 +1,7 @@
+WHAT CHANGED IN 1.0.44
+
+The optional Practice report panel keeps its open or closed position while you move away and return in the same open page. Reload and reset start it closed. Printing does not change your chosen position. Teaching text and scoring are unchanged.
+
 WHAT CHANGED IN 1.0.43
 
 An incomplete optional Practice desk report now names the sections that still need a choice. The first unanswered section receives focus. Completed selections, teaching text and scoring are unchanged.
