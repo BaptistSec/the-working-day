@@ -165,3 +165,6 @@ Report-task route labels fit narrow phone screens. The existing hint keeps the f
 
 Version 1.0.70
 The report-route control includes its existing reporting-contact and backup hint in its accessible description, alongside validation feedback. Visible content, native control behavior and scoring unchanged.
+
+Version 1.0.71
+Each workspace setup checkbox includes its existing item title in its accessible name and its explanation in its accessible description. Visible content, native behavior, count and completion gate unchanged.
