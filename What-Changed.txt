@@ -1,7 +1,10 @@
-v1.0.52 - Reporting card checklist position
+v1.0.53 - Team setup panel positions
+The existing Brief your staff and Completion records and course limits panels keep their independent open/closed positions when you leave Team setup and return in the same open page. Explicit closing is retained. Reload and confirmed reset start closed. Memory-only; no teaching, scoring or saved-schema change.
+
+v1.0.53 - Reporting card checklist position
 The existing Setup checklist and sources panel keeps its open/closed position when you leave the Reporting card and return in the same open page. Explicit closing is retained. Reload and confirmed reset start closed. Memory-only; no teaching, scoring or saved-schema change.
 
-WHAT CHANGED IN 1.0.52
+WHAT CHANGED IN 1.0.53
 
 The library keeps your Browse all modules and course progress panels open or closed while you visit a module and return in the same open page. Reload and reset start them closed. Teaching, scoring and saved progress are unchanged.
 
