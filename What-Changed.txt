@@ -1,3 +1,7 @@
+WHAT CHANGED IN 1.0.47
+
+The assessment choice-review list keeps your open or closed position when you jump between questions or leave and return in the same open page. Reload, reset and a new attempt start it closed. Teaching text and scoring are unchanged.
+
 WHAT CHANGED IN 1.0.46
 
 Each learning module keeps your Learning or Practice checks view and current check while you move away and return in the same open page. Reload and reset start at Learning and the first check. Teaching text and scoring are unchanged.
