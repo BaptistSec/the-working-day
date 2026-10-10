@@ -128,3 +128,6 @@ The optional print name stays in this open page when visiting a learning module 
 
 Version 1.0.57
 The overview preparation panel keeps its open or closed position when you visit course pages and return, only within the open page. Reset and reload start closed. No new saved progress, teaching or visible controls.
+
+Version 1.0.58
+Task disclosure positions now stay as chosen during same-page navigation and rerender, separately for each task. Confirmed reset, reload and Try another route clear them. No teaching, scoring or saved-progress change.
