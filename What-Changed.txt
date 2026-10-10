@@ -1,3 +1,7 @@
+WHAT CHANGED IN 1.0.43
+
+An incomplete optional Practice desk report now names the sections that still need a choice. The first unanswered section receives focus. Completed selections, teaching text and scoring are unchanged.
+
 WHAT CHANGED IN 1.0.42
 
 Optional Practice desk report choices stay selected while you leave and return in the same open page. Check and assemble remains an explicit action; previous feedback is cleared on return. These choices are not saved on reload, and reset clears them. Teaching text and scoring are unchanged.
