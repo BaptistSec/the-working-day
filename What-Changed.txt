@@ -222,3 +222,6 @@ Version 1.0.88
 
 Version 1.0.89
 - The question-return buttons now describe the existing selected-answer or unanswered hint. No added wording, layout or assessment logic change.
+
+Version 1.0.90
+- Assessment navigation buttons now describe the existing current-question position. No added wording, layout or assessment logic change.
