@@ -198,3 +198,6 @@ Version 1.0.80
 
 Version 1.0.81
 - Request inspection buttons now describe their existing guidance. No added wording, layout or inspection logic change.
+
+Version 1.0.82
+- The setup button now describes the existing checked-item count. No added wording, layout or setup logic change.
