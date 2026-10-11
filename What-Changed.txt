@@ -237,3 +237,6 @@ Version 1.0.93
 
 Version 1.0.94
 - The practice report submit button now describes the existing instruction, error and result. No added wording, layout or report logic change.
+
+Version 1.0.95
+- The assessment submit button now describes the existing current-question position and missing-answer error. No added wording, layout or assessment logic change.
