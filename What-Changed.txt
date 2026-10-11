@@ -195,3 +195,6 @@ Version 1.0.79
 
 Version 1.0.80
 - Inbox route choices now describe their existing facts. No added wording, layout or route logic change.
+
+Version 1.0.81
+- Request inspection buttons now describe their existing guidance. No added wording, layout or inspection logic change.
