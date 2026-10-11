@@ -219,3 +219,6 @@ Version 1.0.87
 
 Version 1.0.88
 - The missed-answer navigation buttons now describe the existing review position and question number. No added wording, layout or review logic change.
+
+Version 1.0.89
+- The question-return buttons now describe the existing selected-answer or unanswered hint. No added wording, layout or assessment logic change.
