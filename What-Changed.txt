@@ -171,3 +171,6 @@ Each workspace setup checkbox includes its existing item title in its accessible
 
 Version 1.0.72
 The optional completion-record name field includes its existing privacy advice in its accessible description. Visible content, native input behavior and record handling unchanged.
+
+Version 1.0.73
+The report-fact checkboxes include the existing selection instruction in their accessible descriptions, alongside validation feedback. Visible content, native behavior and reporting logic unchanged.
