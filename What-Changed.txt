@@ -177,3 +177,6 @@ The report-fact checkboxes include the existing selection instruction in their a
 
 Version 1.0.74
 - The optional practice report choices now describe the existing instruction that nothing is submitted. No added wording, layout or logic change.
+
+Version 1.0.75
+- Final assessment questions and choices now describe the existing target, no timer and retake advice. No added wording, layout or scoring change.
