@@ -174,3 +174,6 @@ The optional completion-record name field includes its existing privacy advice i
 
 Version 1.0.73
 The report-fact checkboxes include the existing selection instruction in their accessible descriptions, alongside validation feedback. Visible content, native behavior and reporting logic unchanged.
+
+Version 1.0.74
+- The optional practice report choices now describe the existing instruction that nothing is submitted. No added wording, layout or logic change.
