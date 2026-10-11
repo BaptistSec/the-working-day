@@ -216,3 +216,6 @@ Version 1.0.86
 
 Version 1.0.87
 - The completion-record print button now describes its existing name privacy caution. No added wording, layout or name-handling change.
+
+Version 1.0.88
+- The missed-answer navigation buttons now describe the existing review position and question number. No added wording, layout or review logic change.
