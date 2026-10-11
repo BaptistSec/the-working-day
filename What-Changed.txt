@@ -189,3 +189,6 @@ Version 1.0.77
 
 Version 1.0.78
 - Working-day decision choices now describe their existing question. No added wording, layout or decision logic change.
+
+Version 1.0.79
+- Changed-facts practice choices now describe their existing facts. No added wording, layout or route logic change.
