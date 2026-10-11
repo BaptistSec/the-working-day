@@ -234,3 +234,6 @@ Version 1.0.92
 
 Version 1.0.93
 - Team setup Back and Next buttons now describe the existing current step status. No added wording, layout or team setup logic change.
+
+Version 1.0.94
+- The practice report submit button now describes the existing instruction, error and result. No added wording, layout or report logic change.
