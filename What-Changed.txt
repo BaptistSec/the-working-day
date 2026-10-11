@@ -204,3 +204,6 @@ Version 1.0.82
 
 Version 1.0.83
 - The existing setup count is now a polite status update. No added wording, layout or setup logic change.
+
+Version 1.0.84
+- The existing inspection count now describes the response button. No added wording, layout or inspection logic change.
