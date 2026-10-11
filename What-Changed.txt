@@ -228,3 +228,6 @@ Version 1.0.90
 
 Version 1.0.91
 - Module check navigation buttons now describe the existing current question. No added wording, layout or module logic change.
+
+Version 1.0.92
+- Practice card navigation buttons now describe the existing current scenario, including after switching cards. No added wording, layout or practice logic change.
