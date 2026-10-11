@@ -213,3 +213,6 @@ Version 1.0.85
 
 Version 1.0.86
 - The changed-facts next button now describes its existing answer explanation. No added wording, layout or practice logic change.
+
+Version 1.0.87
+- The completion-record print button now describes its existing name privacy caution. No added wording, layout or name-handling change.
