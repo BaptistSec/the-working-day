@@ -186,3 +186,6 @@ Version 1.0.76
 
 Version 1.0.77
 - Module practice-check answers now describe their existing question. No added wording, layout or check logic change.
+
+Version 1.0.78
+- Working-day decision choices now describe their existing question. No added wording, layout or decision logic change.
