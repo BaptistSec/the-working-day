@@ -207,3 +207,6 @@ Version 1.0.83
 
 Version 1.0.84
 - The existing inspection count now describes the response button. No added wording, layout or inspection logic change.
+
+Version 1.0.85
+- The existing inspection count now has polite status semantics. No added wording, layout or inspection logic change.
