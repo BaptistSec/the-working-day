@@ -180,3 +180,6 @@ Version 1.0.74
 
 Version 1.0.75
 - Final assessment questions and choices now describe the existing target, no timer and retake advice. No added wording, layout or scoring change.
+
+Version 1.0.76
+- Sort the desk choices now describe their existing card scenario. No added wording, layout or route logic change.
