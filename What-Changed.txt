@@ -168,3 +168,6 @@ The report-route control includes its existing reporting-contact and backup hint
 
 Version 1.0.71
 Each workspace setup checkbox includes its existing item title in its accessible name and its explanation in its accessible description. Visible content, native behavior, count and completion gate unchanged.
+
+Version 1.0.72
+The optional completion-record name field includes its existing privacy advice in its accessible description. Visible content, native input behavior and record handling unchanged.
