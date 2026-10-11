@@ -183,3 +183,6 @@ Version 1.0.75
 
 Version 1.0.76
 - Sort the desk choices now describe their existing card scenario. No added wording, layout or route logic change.
+
+Version 1.0.77
+- Module practice-check answers now describe their existing question. No added wording, layout or check logic change.
