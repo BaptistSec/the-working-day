@@ -270,3 +270,6 @@ Version 1.0.104
 
 Version 1.0.105
 - Try another route now describes the existing task outcome heading. No added wording, layout or learning logic change.
+
+Version 1.0.106
+- Existing task, module, report and team continuation controls now describe their visible outcome, progress or instructions. No added wording, layout or learning logic change.
