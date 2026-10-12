@@ -240,3 +240,6 @@ Version 1.0.94
 
 Version 1.0.95
 - The assessment submit button now describes the existing current-question position and missing-answer error. No added wording, layout or assessment logic change.
+
+Version 1.0.96
+- Module practice answer buttons now describe their existing question and current feedback. No added wording, layout or learning logic change.
