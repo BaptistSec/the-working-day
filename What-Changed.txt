@@ -255,3 +255,6 @@ Version 1.0.99
 
 Version 1.0.100
 - Practice desk Previous card and Next card buttons now describe their current scenario and existing feedback. No added wording, layout or learning logic change.
+
+Version 1.0.101
+- Module Previous check and Next check buttons now describe their current question and existing feedback. No added wording, layout or learning logic change.
