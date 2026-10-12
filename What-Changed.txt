@@ -258,3 +258,6 @@ Version 1.0.100
 
 Version 1.0.101
 - Module Previous check and Next check buttons now describe their current question and existing feedback. No added wording, layout or learning logic change.
+
+Version 1.0.102
+- Assessment Previous now describes its current question position and existing validation error. No added wording, layout or learning logic change.
