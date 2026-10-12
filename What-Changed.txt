@@ -264,3 +264,6 @@ Version 1.0.102
 
 Version 1.0.103
 - Module Finish and Continue buttons now describe the existing check-completion status. No added wording, layout or learning logic change.
+
+Version 1.0.104
+- Continue to practice checks now describes the existing check-completion status. No added wording, layout or learning logic change.
