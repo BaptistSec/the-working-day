@@ -249,3 +249,6 @@ Version 1.0.97
 
 Version 1.0.98
 - Inbox route buttons now describe their existing facts and current feedback. No added wording, layout or learning logic change.
+
+Version 1.0.99
+- Practice desk answer buttons now describe their existing scenario and current feedback. No added wording, layout or learning logic change.
