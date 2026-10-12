@@ -261,3 +261,6 @@ Version 1.0.101
 
 Version 1.0.102
 - Assessment Previous now describes its current question position and existing validation error. No added wording, layout or learning logic change.
+
+Version 1.0.103
+- Module Finish and Continue buttons now describe the existing check-completion status. No added wording, layout or learning logic change.
