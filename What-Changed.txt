@@ -276,3 +276,6 @@ Version 1.0.106
 
 Version 1.0.107
 - Existing assessment retake, learning review and course continuation controls now describe their visible result or next step. No added wording, layout or learning logic change.
+
+Version 1.0.108
+- When a passed assessment has unfinished learning modules, the home continuation label names the next learning module. Destination and continuation logic are unchanged.
