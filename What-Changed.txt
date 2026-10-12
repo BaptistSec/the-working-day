@@ -252,3 +252,6 @@ Version 1.0.98
 
 Version 1.0.99
 - Practice desk answer buttons now describe their existing scenario and current feedback. No added wording, layout or learning logic change.
+
+Version 1.0.100
+- Practice desk Previous card and Next card buttons now describe their current scenario and existing feedback. No added wording, layout or learning logic change.
