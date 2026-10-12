@@ -273,3 +273,6 @@ Version 1.0.105
 
 Version 1.0.106
 - Existing task, module, report and team continuation controls now describe their visible outcome, progress or instructions. No added wording, layout or learning logic change.
+
+Version 1.0.107
+- Existing assessment retake, learning review and course continuation controls now describe their visible result or next step. No added wording, layout or learning logic change.
