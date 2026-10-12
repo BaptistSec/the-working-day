@@ -246,3 +246,6 @@ Version 1.0.96
 
 Version 1.0.97
 - Changed-facts practice answer buttons now describe their existing facts and current feedback. No added wording, layout or learning logic change.
+
+Version 1.0.98
+- Inbox route buttons now describe their existing facts and current feedback. No added wording, layout or learning logic change.
